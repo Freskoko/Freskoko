@@ -1,4 +1,4 @@
-### Hey :P
+### Hey there :D
 
 Have a look around! 
 
