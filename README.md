@@ -7,6 +7,9 @@ I currently work at: 💼
 - Eviny fornybar: A junior developer (since june. 2023) ⚡
 - UiB: Teaching python to new students (since jan. 2023) 👨‍🏫
 
+Check out my CV:
+
+https://freskoko.github.io/CVHomePage/
 <!--
 **Freskoko/Freskoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
