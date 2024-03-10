@@ -1,6 +1,4 @@
-### Hey there :D
-
-Have a look around! 
+### Hey, have a look around! 
 
 I am studying: 🧑‍🎓
 - bioinformatics at UiB 🧬🖥️
