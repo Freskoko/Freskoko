@@ -3,7 +3,7 @@
 Have a look around! 
 
 I am studying: 🧑‍🎓
-- bioinformatics at UiB 🧬
+- bioinformatics at UiB 🧬🖥️
 
 I currently work at: 💼
 - Eviny fornybar: A junior developer (since june. 2023) ⚡
