@@ -9,11 +9,12 @@ I currently work at: 💼
 
 Check out my [CV](https://freskoko.github.io/CVHomePage/):
 
+<!--
 ### Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freskoko&layout=compact
 
-<!--
+
 **Freskoko/Freskoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
