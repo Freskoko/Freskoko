@@ -1,7 +1,7 @@
 ### Hey, have a look around! 
 
 I am studying: 🧑‍🎓
-- bioinformatics at UiB 🧬🖥️
+- Bioinformatics at UiB 🧬🖥️
 
 I currently work at: 💼
 - Eviny fornybar: A junior developer (since june. 2023) ⚡
@@ -11,8 +11,8 @@ Check out my CV:
 
 https://freskoko.github.io/CVHomePage/
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freskoko&layout=compact
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johlys&layout=compact
 <!--
 **Freskoko/Freskoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
