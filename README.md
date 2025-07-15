@@ -1,7 +1,10 @@
 ### Hey, have a look around! 
 
-I am studying: 🧑‍🎓
-- Bioinformatics at UiB 🧬🖥️
+I have completed a
+- Bachelor in Bioinformatics at UiB
+
+I am studying:
+- Msc in machine learning at UiB
 
 I currently work at: 💼
 - Eviny fornybar: A developer (since june. 2023) ⚡
