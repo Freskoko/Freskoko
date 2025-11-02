@@ -6,13 +6,12 @@ I have completed a
 I am studying:
 - Msc in machine learning at UiB
 
+<!--
 I currently work at: 💼
 - Eviny fornybar: A developer (since june. 2023) ⚡
 - UiB: Teaching python to new students (since jan. 2023) 👨‍🏫
 
 Check out my [CV](https://freskoko.github.io/CVHomePage/):
-
-<!--
 ### Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freskoko&layout=compact
